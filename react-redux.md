@@ -7,7 +7,6 @@ Over the next few challenges, first, you'll create a simple React component whic
 
 ---
 Start with a DisplayMessages component. Add a constructor to this component and initialize it with a state that has two properties: input, that's set to an empty string, and messages, that's set to an empty array.
----
 
 ```
 class DisplayMessages extends React.Component {
